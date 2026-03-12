@@ -23,3 +23,5 @@ notebook
 nbformat
 statsmodels
 scipy
+matplotlib
+seaborn
