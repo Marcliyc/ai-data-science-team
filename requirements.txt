@@ -7,6 +7,7 @@ langchain_experimental
 langgraph >= 1.0.0
 openai
 pandas
+pyarrow
 sqlalchemy
 numpy
 plotly
@@ -15,3 +16,10 @@ scikit-learn
 xgboost
 psutil
 streamlit-flow-component
+lightgbm
+joblib
+jupyterlab
+notebook
+nbformat
+statsmodels
+scipy
