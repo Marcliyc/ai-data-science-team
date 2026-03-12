@@ -1,0 +1,7 @@
+{
+  "split_mode": "time_based_80_20",
+  "train_max_date": "2019-12-26",
+  "test_min_date": "2019-12-26",
+  "temporal_order_ok": true,
+  "max_feature_target_corr_in_train": 0.11140143345549233
+}
